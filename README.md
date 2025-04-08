@@ -16,10 +16,10 @@ A simple Spring Boot-based backend for an E-Commerce application, designed to ha
 
 ## 📦 Technologies Used
 
-- Java 17 / Java 21+ (Your Java version)
+- Java 17 / Java 21 
 - Spring Boot
 - Spring Data JPA
 - Maven
-- MySQL / H2 (specify your DB)
+- MySQL / H2 
 - Postman (for API testing)
 
