@@ -1,0 +1,51 @@
+
+0
+id	1
+name	"Tata Nexon"
+desc	"A compact SUV with excellent safety features and performance."
+brand	"Tata Motors"
+price	750000.00JS:750000
+categroy	"Cars"
+realsedate	"2024-01-14T18:30:00.000+00:00"
+quantity	50
+stock	true
+1
+id	2
+name	"Maruti Suzuki Swift"
+desc	"A popular hatchback known for its fuel efficiency and reliability."
+brand	"Maruti Suzuki"
+price	550000.00JS:550000
+categroy	"Cars"
+realsedate	"2024-01-31T18:30:00.000+00:00"
+quantity	100
+stock	true
+2
+id	3
+name	"Hyundai Creta"
+desc	"A stylish SUV with advanced features and comfortable interior."
+brand	"Hyundai"
+price	950000.00JS:950000
+categroy	"Cars"
+realsedate	"2024-02-29T18:30:00.000+00:00"
+quantity	75
+stock	true
+3
+id	4
+name	"Mahindra Thar"
+desc	"A rugged off-road SUV with a powerful engine and modern amenities."
+brand	"Mahindra"
+price	1200000.00JS:1200000
+categroy	"Cars"
+realsedate	"2024-03-31T18:30:00.000+00:00"
+quantity	30
+stock	true
+4
+id	5
+name	"Honda City"
+desc	"A premium sedan with a sleek design and advanced safety features."
+brand	"Honda"
+price	1100000.00JS:1100000
+categroy	"Cars"
+realsedate	"2024-04-30T18:30:00.000+00:00"
+quantity	60
+stock	true
