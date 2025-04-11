@@ -57,11 +57,11 @@ public class Product {
     }
 
     public String getCategroy() {
-        return categroy;
+        return category;
     }
 
     public void setCategroy(String categroy) {
-        this.categroy = categroy;
+        this.category = category;
     }
 
     public Date getRealsedate() {
@@ -116,7 +116,7 @@ public class Product {
     private String description;
     private String brand;
     private BigDecimal price;
-    private String categroy;
+    private String category;
     private Date realsedate;
     private boolean productAvailable;
     private  int stockQuantity;
